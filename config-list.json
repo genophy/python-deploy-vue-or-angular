@@ -1,0 +1,37 @@
+[
+	{
+	  "name": "wangzhan001-angular",
+	  "nameCN": "网站前端001-angular",
+	  "client": {
+		"path": "/Users/genophy/wangzhan001/dist",
+		"archiveTmpDir": "/Users/genophy/tmp/wangzhan001",
+		"buildCmd": "cd /Users/genophy/wangzhan001;/bin/zsh -c \"ng build --prod\""
+	  },
+	  "server": {
+		"ip": "192.168.0.100",
+		"user": "guest",
+		"pwd": "123456",
+		"backupDir": "/home/genophy/projects/backup-dir",
+		"uploadDir": "/home/genophy/projects/upload-dir",
+		"deployDir": "/home/genophy/projects/wangzhan001"
+	  }
+	},
+	{
+		"name": "wangzhan002-angular",
+		"nameCN": "网站前端002-angular",
+		"client": {
+			"path": "/Users/genophy/wangzhan002/dist",
+			"archiveTmpDir": "/Users/genophy/tmp/wangzhan002",
+			"buildCmd": "cd /Users/genophy/wangzhan002;/bin/zsh -c \"ng build --prod\""
+		},
+		"server": {
+			"ip": "192.168.0.101",
+			"user": "guest",
+			"pwd": "654321",
+			"backupDir": "/home/genophy/projects/backup-dir",
+			"uploadDir": "/home/genophy/projects/upload-dir",
+			"deployDir": "/home/genophy/projects/wangzhan002"
+		}
+	}
+]
+  
