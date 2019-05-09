@@ -1,4 +1,4 @@
-# web-project-deploy-to-server-dir
+# python-deploy-vue-or-angular
 将web网站发布到指定服务器的路径
 
 # 运行
